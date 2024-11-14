@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/mFHpycn/Carlos-Lxpxz.png">
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,bootstrap,cs,git,htmx,java,mysql,npm,react,ts,dotnet,docker,php,vscode,visualstudio,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,bootstrap,cs,git,htmx,java,mysql,npm,react,ts,dotnet,docker,php,vscode,visualstudio,sqlite,nodejs)](https://skillicons.dev)
 
 
 ## Proyectos
