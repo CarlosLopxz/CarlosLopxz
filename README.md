@@ -30,7 +30,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Sistema de hotel para la reseervaciones de habitaciones y pagos electronicos </h3>
+<h3 align="center">Sistema de hotel para la reservaciones de habitaciones y pagos electronicos </h3>
 <div align="center">
 <a href="https://www.cardenals.com"><img src="https://i.ibb.co/GnbfGV7/Screenshot-2024-11-14-054626.png" width="400" ></a>
 </div>
