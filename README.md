@@ -13,7 +13,7 @@
 <td width="50%">
 <h3 align="center">Sistema de hotel para la gestion de inventario, clientes y habitaciones</h3>
 <div align="center">
-<a href="https://wwww.hotel.comeya.xyz" target="_blank"><img src="https://i.ibb.co/j5372GP/htole.png" width="400"></a>
+<a href="https://www.hotel.comeya.xyz" target="_blank"><img src="https://i.ibb.co/j5372GP/htole.png" width="400"></a>
 </div>                                                                                      
 </td>
 
